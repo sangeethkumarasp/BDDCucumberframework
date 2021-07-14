@@ -13,7 +13,7 @@ public class ConfigReader {
 	
 	/**
 	 * @author sangeeth
-	 * This method is used to load properties file 
+	 * This method is used to load properties file where we will get urls and browser instances 
 	 *
 	 */
 	
